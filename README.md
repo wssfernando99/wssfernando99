@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Sayuranga</h1>
 <h3 align="center">Interested in web development.</h3>
 
